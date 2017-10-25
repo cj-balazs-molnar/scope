@@ -1,0 +1,4 @@
+/usr/local/java/jdk1.8.0_144/bin/javac *.java
+
+
+/usr/local/java/jdk1.8.0_144/bin/java TrackerTest

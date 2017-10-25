@@ -1,0 +1,3 @@
+/usr/local/java/jdk1.8.0_144/bin/javac *.java
+echo "starting:"
+/usr/local/java/jdk1.8.0_144/bin/java TrackerMain

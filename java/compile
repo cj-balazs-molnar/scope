@@ -1,0 +1,3 @@
+/usr/local/java/jdk1.8.0_144/bin/jar cmf manifest WorkshopTracker.jar TrackerMain.class Talk.class Track.class Workshop.class Session.class
+/usr/local/java/jdk1.8.0_144/bin/java -jar WorkshopTracker.jar
+

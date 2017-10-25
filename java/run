@@ -1,0 +1,10 @@
+#!/bin/bash
+
+if [ "$1" == "" ]; then
+java -jar WorkshopTracker.jar
+else
+java -jar WorkshopTracker.jar
+fi
+read -p "Press enter to continue"
+
+
